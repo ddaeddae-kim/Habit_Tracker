@@ -3,4 +3,4 @@
 누구나 쉽게 사용할 수 있는 루틴 메이커를 만들고자 합니다.
 아직 자세하게 구상까진 안했지만... 자기계발서들에서 나와있는 습관 형성에 도움이 될만한 요소들을 바탕으로, 재미있는 인터랙션과 경험들을 추가해 지속가능한 습관을 형성하도록 도와주는 사이트입니다.
 
-아마 [이 앱](https://apps.apple.com/us/app/habit-daily-tracker/id1445651730)을 클론 코딩하는 것부터 시작하지 않을까 싶습니다.
+아마 [Habit daily tracker](https://apps.apple.com/us/app/habit-daily-tracker/id1445651730)를 클론 코딩하는 것부터 시작하지 않을까 싶습니다.
